@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Hands-on Workshop
 
 This is the sample project for the Angular Hands-on Workshop.
@@ -57,3 +58,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# angular-hands-on-workshop
+>>>>>>> fc4666a62b4f4094e6d818301cea30ff24bc42eb
